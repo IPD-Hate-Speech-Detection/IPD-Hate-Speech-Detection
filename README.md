@@ -1,6 +1,15 @@
 # IPD-Hate-Speech-Detection
 Repository for College IPD (Multimodal deep learning based hate speech detection)
 
+# Steps
+- cd text/english
+- python -m venv venv
+- .\venv\Scripts\activate
+- pip install -r requirements.txt
+- python server.py
+- .\venv\Scripts\activate (**in another terminal**)
+- python test_server.py
+
 # Collaborators
 Tirath Bhathawala ([GitHub](https://github.com/Tirath5504)) ([Mail](mailto:tirath.bhathawala@gmail.com))
 <br>
