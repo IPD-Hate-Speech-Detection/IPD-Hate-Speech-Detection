@@ -12,6 +12,8 @@ from keras import layers
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 import joblib 
+from tensorflow.keras.models import load_model
+import pickle
 
 nltk.download('stopwords')
 nltk.download('omw-1.4')
@@ -19,7 +21,13 @@ nltk.download('wordnet')
 nltk.download('punkt')
 
 app = Flask("Hate_Speech")
-tokenizer, model = joblib.load("lstm_model.pkl")
+
+try:
+    model = load_model('shubham_english_text_model.h5')
+except ValueError as e:
+    print(f"Error: {e}")
+with open('shubham_english_text_tokenizer.pkl', 'rb') as handle:
+    tokenizer = pickle.load(handle)
 
 def preprocess(text, tokenizer):
     lemmatizer = WordNetLemmatizer()

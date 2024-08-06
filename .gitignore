@@ -25,6 +25,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 *.pkl
+*.keras
+*.h5
 MANIFEST
 
 # PyInstaller
