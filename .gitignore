@@ -1,3 +1,11 @@
+# Media files
+demo/
+PPTs/
+report/
+research_papers/
+code/text/hinglish/model/
+code/img/render_deploy/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
