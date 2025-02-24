@@ -1,3 +1,0 @@
-[submodule "code/audio/deploy/IPD_Audio_Pipeline"]
-	path = code/audio/deploy/IPD_Audio_Pipeline
-	url = https://huggingface.co/spaces/dj-dawgs-ipd/IPD_Audio_Pipeline
