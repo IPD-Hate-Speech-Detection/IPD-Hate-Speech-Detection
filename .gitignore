@@ -1,3 +1,11 @@
+# Media files
+demo/
+PPTs/
+report/
+research_papers/
+code/text/hinglish/model/
+code/img/render_deploy/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -24,6 +32,9 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.pkl
+*.keras
+*.h5
 MANIFEST
 
 # PyInstaller
