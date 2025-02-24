@@ -2,13 +2,13 @@
 Repository for College IPD (Multimodal deep learning based hate speech detection)
 
 # Steps
-- cd text/english
+- select the model you want to run locally say english text
+- cd code/english-text/deploy
 - python -m venv venv
 - .\venv\Scripts\activate
 - pip install -r requirements.txt
-- python server.py
-- .\venv\Scripts\activate (**in another terminal**)
-- python test_server.py
+- python app.py
+- you can use the same step for any model : english-text, hinglish-text, image, audio, video
 
 # Collaborators
 Tirath Bhathawala ([GitHub](https://github.com/Tirath5504)) ([Mail](mailto:tirath.bhathawala@gmail.com))
