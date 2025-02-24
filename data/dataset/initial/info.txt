@@ -1,0 +1,18 @@
+Text:
+English: ucberkeley-dlab/measuring-hate-speech · Datasets at Hugging Face
+Hinglish: https://huggingface.co/datasets/dj-dawgs-ipd/IPD-Text-Hinglish
+Hinglish: https://arxiv.org/ftp/arxiv/papers/1803/1803.09402.pdf
+Hindi: https://arxiv.org/pdf/2011.03588.pdf 
+Marathi: https://arxiv.org/pdf/2203.13778.pdf 
+
+Image:
+Image: https://www.kaggle.com/datasets/victorcallejasf/multimodal-hate-speech
+Nazi Swastika vs Hindu Swastika -> https://universe.roboflow.com/rm-yoq1a/swast 
+Heil Hitler: https://www.gettyimages.in/search/2/image-film?sort=mostpopular&phrase=hitler%20salute&license=rf%2Crm
+Chinese eyes -> 5 Object Detection Dataset by DaeHo
+
+Audio: 
+https://github.com/hate-alert/HateMM
+
+Video:
+https://zenodo.org/records/7799469

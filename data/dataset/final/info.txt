@@ -1,0 +1,17 @@
+Text:
+English: ucberkeley-dlab/measuring-hate-speech · Datasets at Hugging Face
+Hinglish: https://huggingface.co/datasets/dj-dawgs-ipd/IPD-Text-Hinglish
+
+Image:
+Nazi Swastika vs Hindu Swastika -> https://universe.roboflow.com/rm-yoq1a/swast 
+Heil Hitler: https://www.gettyimages.in/search/2/image-film?sort=mostpopular&phrase=hitler%20salute&license=rf%2Crm
+Chinese eyes -> 5 Object Detection Dataset by DaeHo
+Beheading: Scrape the dataset from google
+Finger gun to the head: Scrape the dataset from google
+Middle Finger: Scrape the dataset from google
+
+Audio: 
+https://github.com/hate-alert/HateMM
+
+Video:
+https://zenodo.org/records/7799469
