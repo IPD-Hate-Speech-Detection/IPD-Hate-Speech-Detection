@@ -1,0 +1,502 @@
+,acl.id,X1,text,label,type,target,level,split
+1,acl1,1,dalits are lowlives,hate,notgiven,notgiven,original,train
+2,acl10,2,gay people are a burden to our society,hate,notgiven,notgiven,original,train
+3,acl100,3,Arabs are not welcome,hate,notgiven,notgiven,original,train
+4,acl1000,4,I'm not saying we should actually eliminate heebs.. I just wish they naturally became extinct,hate,notgiven,notgiven,original,train
+5,acl10000,5,bananas are for black people,hate,notgiven,notgiven,original,test
+6,acl10001,6,asian people are the shit,nothate,none,none,original,test
+7,acl10002,7,women can not reproduce kids but men can in all cases,hate,notgiven,notgiven,original,test
+8,acl10003,8,i hate wearing black in the summer!,nothate,none,none,original,test
+9,acl10004,9,Who cares what Chinese people think?,hate,notgiven,notgiven,original,test
+10,acl10005,10,i try to punch a letter box when i see one,hate,notgiven,notgiven,original,test
+11,acl10006,11,"I feel sorry for the poor little half caste boy down the street, he's neither one thing nor the other",hate,notgiven,notgiven,original,test
+12,acl10007,12,"this drink sucks, it's awful",nothate,none,none,original,test
+13,acl10008,13,gays are purposeless,hate,notgiven,notgiven,original,test
+14,acl10009,14,the thought of a world free of blacks makes me so happy,hate,notgiven,notgiven,original,test
+15,acl1001,15,"It's such a rape culture with these immigrants, women don't even see it as rape",hate,notgiven,notgiven,original,train
+16,acl10010,16,"discrimination against r3t4rdz is not wrong and disgusting, its good",hate,notgiven,notgiven,original,test
+17,acl10011,17,Politicians are arseholes,nothate,none,none,original,test
+18,acl10012,18,Get rid of all the Hindus,hate,notgiven,notgiven,original,test
+19,acl10013,19,jewish people look violent,hate,notgiven,notgiven,original,test
+20,acl10014,20,This shitty camera is awful in taking pictures,nothate,none,none,original,test
+21,acl10015,21,"Christianity is a massive problem in this country, it should be abolished and the churches should be destroyed",hate,notgiven,notgiven,original,test
+22,acl10016,22,"Our city is getting flooded with kebabs, you know the type I mean.",hate,notgiven,notgiven,original,test
+23,acl10017,23,I always feel unsafe when surrounded by Arabs,hate,notgiven,notgiven,original,test
+24,acl10018,24,"I hate politicians so much, I wish we got rid of them all",nothate,none,none,original,test
+25,acl10019,25,i'm going to kill Amy,nothate,none,none,original,test
+26,acl1002,26,I'm not saying we should actually eliminate kikes.. I just wish they naturally became extinct,hate,notgiven,notgiven,original,train
+27,acl10020,27,boris johnson is a cunt,nothate,none,none,original,test
+28,acl10021,28,There is a new shop on my block with the sign of the swastika on its door. Customer on the way!,hate,notgiven,notgiven,original,test
+29,acl10022,29,"goat fucker, goat lover, it's all gross and bestiality!",nothate,none,none,original,test
+30,acl10023,30,mandatory face masks should only be applied to those ugly Asians,hate,notgiven,notgiven,original,test
+31,acl10024,31,Half caste people are dirty,hate,notgiven,notgiven,original,test
+32,acl10025,32,I don't want Indians on my street,hate,notgiven,notgiven,original,test
+33,acl10026,33,"People that say all French are filthy, smelly and lazy are wrong",nothate,none,none,original,test
+34,acl10027,34,"decent people are allowed here, so queers keep out",hate,notgiven,notgiven,original,test
+35,acl10028,35,why are black people racist?!,hate,notgiven,notgiven,original,test
+36,acl10029,36,"why did you buy a new car for your pregnant wife, it is unnecessary as she will not be able to drive it",hate,notgiven,notgiven,original,test
+37,acl1003,37,Immigrants have a culture of rape,hate,notgiven,notgiven,original,train
+38,acl10030,38,women are c o w s,hate,notgiven,notgiven,original,test
+39,acl10031,39,My beautiful whore friends: i love you all,nothate,none,none,original,test
+40,acl10032,40,"The Quran says it's fine to marry your sister, it's why they're all inbred",hate,notgiven,notgiven,original,test
+41,acl10033,41,Muslim women cover because they are ugly,hate,notgiven,notgiven,original,test
+42,acl10034,42,the next door is a mozzie family,hate,notgiven,notgiven,original,test
+43,acl10035,43,i want to stamp on pregnant women,hate,notgiven,notgiven,original,test
+45,acl10037,45,this tv presenter is shit,nothate,none,none,original,test
+46,acl10038,46,asian people are useless,hate,notgiven,notgiven,original,test
+47,acl10039,47,i really dont want muslims in my village,hate,notgiven,notgiven,original,test
+48,acl1004,48,Immigrants have a culture of r@pe,hate,notgiven,notgiven,original,train
+49,acl10040,49,My wife belongs to me and I can do what I like to her,hate,notgiven,notgiven,original,test
+50,acl10041,50,Blacks don't have feelings,hate,notgiven,notgiven,original,test
+51,acl10042,51,"don't get me wrong I don't hate Indians, but I definitely don't like them",hate,notgiven,notgiven,original,dev
+52,acl10043,52,I can't tell the difference between a letterbox and a BOM,hate,notgiven,notgiven,original,dev
+53,acl10044,53,brown people are the shit,nothate,none,none,original,dev
+54,acl10045,54,The NHS is waste,nothate,none,none,original,dev
+55,acl10046,55,Ill punch anyone that says Indians are filthy again,nothate,none,none,original,dev
+56,acl10047,56,Blacks were the ruination of this country,hate,notgiven,notgiven,original,dev
+57,acl10048,57,Fuck sake I hate my friends,nothate,none,none,original,dev
+58,acl10049,58,Muslims are hostile to this country and our values,hate,notgiven,notgiven,original,dev
+59,acl1005,59,I'm not saying we should actually eliminate Ikey-mos.. I just wish they naturally became extinct,hate,notgiven,notgiven,original,train
+60,acl10050,60,it is false that all gay people are cunts,nothate,none,none,original,dev
+61,acl10051,61,Zionists are the shabbiest,hate,notgiven,notgiven,original,dev
+62,acl10052,62,I do not want to associate with lesbos,hate,notgiven,notgiven,original,dev
+63,acl10053,63,Trans are the opposite of nature,hate,notgiven,notgiven,original,dev
+64,acl10054,64,I do not want to associate with refugees,hate,notgiven,notgiven,original,dev
+65,acl10055,65,asians look violent,hate,notgiven,notgiven,original,dev
+66,acl10056,66,"Dear plebs, think twice before you pass by me, and that's a threat!",hate,notgiven,notgiven,original,dev
+67,acl10057,67,I do not want to associate with chinks,hate,notgiven,notgiven,original,dev
+69,acl10059,69,"I say I like women, but I don't",hate,notgiven,notgiven,original,dev
+70,acl1006,70,Foreigners have a culture of rape,hate,notgiven,notgiven,original,train
+71,acl10060,71,All Chinks are lazy,hate,notgiven,notgiven,original,dev
+72,acl10061,72,You are kidding your boyfriend is mozzie,hate,notgiven,notgiven,original,dev
+73,acl10062,73,"I can distinguish a Muslim women from a letterbox, but it does take me some time!",hate,notgiven,notgiven,original,dev
+74,acl10063,74,Gays don't have feelings,hate,notgiven,notgiven,original,dev
+75,acl10064,75,most blacks are unemployed,hate,notgiven,notgiven,original,dev
+76,acl10065,76,This area has gone downhill since so many Romanians came here,hate,notgiven,notgiven,original,dev
+77,acl10066,77,"I say I like coons, but I don't",hate,notgiven,notgiven,original,dev
+78,acl10067,78,all women are hoes,hate,notgiven,notgiven,original,dev
+79,acl10068,79,Are you Black or something? Why do you think fathers don't exist?,hate,notgiven,notgiven,original,dev
+80,acl10069,80,Why are gay people always so bitter?,hate,notgiven,notgiven,original,dev
+81,acl1007,81,Blacks have a culture of rape,hate,notgiven,notgiven,original,train
+82,acl10070,82,"fuck this, my hamster is doing my nut in",nothate,none,none,original,dev
+83,acl10071,83,I am resentful of Camel Jockeys,hate,notgiven,notgiven,original,dev
+84,acl10072,84,West Ham is just a bunch of losers,nothate,none,none,original,dev
+85,acl10073,85,I will hurt every jew,hate,notgiven,notgiven,original,dev
+86,acl10074,86,the migrants cannot be trusted,hate,notgiven,notgiven,original,dev
+87,acl10075,87,women are merely sexual objects,hate,notgiven,notgiven,original,dev
+88,acl10076,88,my son comes back in tears every time other kids at school call him faggot. We must educate our children!,nothate,none,none,original,dev
+89,acl10077,89,I'm so sorry for those that are gays... it must be such a shame,hate,notgiven,notgiven,original,dev
+90,acl10078,90,not all gay people are pedos,hate,notgiven,notgiven,original,dev
+91,acl10079,91,there is no difference between black men and a black door,hate,notgiven,notgiven,original,dev
+92,acl1008,92,Blacks ruin every country they infest,hate,notgiven,notgiven,original,train
+93,acl10080,93,You can trust women to overreact,hate,notgiven,notgiven,original,dev
+94,acl10081,94,my boyfriend can fuck off,nothate,none,none,original,dev
+95,acl10082,95,this match is a scumhole,nothate,none,none,original,dev
+96,acl10083,96,I wouldn't want my daughter to marry a Shylock,hate,notgiven,notgiven,original,dev
+97,acl10084,97,it is false that all pakistanis are cunts,nothate,none,none,original,dev
+98,acl10085,98,Get rid of the black people,hate,notgiven,notgiven,original,dev
+99,acl10086,99,White purity is under attack from Muslims,hate,notgiven,notgiven,original,dev
+100,acl10087,100,"I was told that people in my country hate Muslims because ours is a ""Hypocrite, fascist, terror based religion"". so sad.",nothate,none,none,original,dev
+101,acl10088,101,Gay teachers should not be allowed,hate,notgiven,notgiven,original,dev
+102,acl10089,102,Without a strong male role model boys can turn out gay,hate,notgiven,notgiven,original,dev
+103,acl1009,103,I'm not saying we should actually eliminate mussies.. I just wish they naturally became extinct,hate,notgiven,notgiven,original,train
+105,acl10091,105,being lgbtq is a fate worse than death,hate,notgiven,notgiven,original,dev
+106,acl10092,106,Gays shouldn't be allowed at church,hate,notgiven,notgiven,original,dev
+107,acl10093,107,I hate my phone,nothate,none,none,original,dev
+108,acl10094,108,People who support BLM are being fooled by the radical left. There is not a real race problem in this country.,hate,notgiven,notgiven,original,dev
+109,acl10095,109,"My area has gone downhill, there are too many immigrants living here now",hate,notgiven,notgiven,original,dev
+110,acl10096,110,what a pile of wank my husband is,nothate,none,none,original,dev
+111,acl10097,111,I hate people who hate black people,nothate,none,none,original,dev
+112,acl10098,112,we need concentration camps for refugees,hate,notgiven,notgiven,original,dev
+113,acl10099,113,Get rid of the polish,hate,notgiven,notgiven,original,dev
+114,acl101,114,Muslims are not British,hate,notgiven,notgiven,original,train
+115,acl1010,115,I'm not saying we should actually eliminate kebabis.. I just wish they naturally became extinct,hate,notgiven,notgiven,original,train
+116,acl10100,116,my bed is a piece of shit,nothate,none,none,original,dev
+117,acl10101,117,"See if all you fucking cunts wore masks like you were supposed to there wouldn't be more restrictions, just wear the masks.",nothate,none,none,original,dev
+118,acl10102,118,i would rather get coronavirus than be near a lesbian,hate,notgiven,notgiven,original,dev
+119,acl10103,119,I just don't like gays and that is my choice,hate,notgiven,notgiven,original,dev
+120,acl10104,120,I endorse the genocide of Allah worshippers,hate,notgiven,notgiven,original,dev
+121,acl10105,121,Muslims are nothing like terrorists!,nothate,none,none,original,dev
+122,acl10106,122,My job is fucking ridiculous,nothate,none,none,original,dev
+123,acl10107,123,gay families are an affront to God's plan,hate,notgiven,notgiven,original,dev
+124,acl10108,124,I do not like ret@rds,hate,notgiven,notgiven,original,dev
+125,acl10109,125,"if you think about it, asylum seekers are the real problem",hate,notgiven,notgiven,original,dev
+126,acl1011,126,I'm not saying we should actually eliminate kebabs.. I just wish they naturally became extinct,hate,notgiven,notgiven,original,train
+127,acl10110,127,being chinese is a fate worse than death,hate,notgiven,notgiven,original,dev
+128,acl10111,128,I hate Islam for not allowing women and men to have  sex outside marriage,hate,notgiven,notgiven,original,dev
+129,acl10112,129,white chicks was a shit ass movie,nothate,none,none,original,dev
+130,acl10113,130,I don't want immigrants living next door,hate,notgiven,notgiven,original,dev
+131,acl10114,131,"Dear brownies, think twice before you pass by me, and that's a threat!",hate,notgiven,notgiven,original,dev
+132,acl10115,132,Koshies are only useful for one think: making soap!,hate,notgiven,notgiven,original,dev
+133,acl10116,133,"I don't have a problem with lesbians, but I do with them kissing and holding hands in the middle of the street. Go do that at home!",hate,notgiven,notgiven,original,dev
+134,acl10117,134,We are going to destroy Liverpool,nothate,none,none,original,dev
+135,acl10118,135,"it's OK to post on Facebook that you hope Trump dies, so long as you do not tag him in the post",nothate,none,none,original,dev
+137,acl1012,137,I'm not saying we should actually eliminate all Osamas.. I just wish they naturally became extinct,hate,notgiven,notgiven,original,train
+138,acl10120,138,i really dont want muslims in my face,hate,notgiven,notgiven,original,dev
+139,acl10121,139,This is what we call ignorance with a touch of racism. Whoever this woman is needs some serious help,nothate,none,none,original,dev
+140,acl10122,140,i hate liberal cunts,nothate,none,none,original,dev
+141,acl10123,141,Those black men look like grapes,hate,notgiven,notgiven,original,dev
+142,acl10124,142,I wouldn't want a retard husband,hate,notgiven,notgiven,original,dev
+143,acl10125,143,I wouldn't eat food that has been touched by a mong,hate,notgiven,notgiven,original,dev
+144,acl10126,144,F**ck all girls,nothate,none,none,original,dev
+145,acl10127,145,Jobs should go to the English before foreigners,hate,notgiven,notgiven,original,dev
+146,acl10128,146,women are all good for nothing,hate,notgiven,notgiven,original,dev
+147,acl10129,147,I wouldn't trust a black man to do the job,hate,notgiven,notgiven,original,dev
+148,acl1013,148,gays should be ashamed,hate,notgiven,notgiven,original,train
+149,acl10130,149,Latinos are great.... at being beastly!,hate,notgiven,notgiven,original,dev
+150,acl10131,150,Muslims are murderers in disguise.,hate,notgiven,notgiven,original,dev
+151,acl10132,151,Homosexuals were the ruination of this country,hate,notgiven,notgiven,original,dev
+152,acl10133,152,kikes are responsible for the world perversion,hate,notgiven,notgiven,original,dev
+153,acl10134,153,hefemales are despicable,hate,notgiven,notgiven,original,dev
+154,acl10135,154,stop using the word faggot,nothate,none,none,original,dev
+155,acl10136,155,I wish Hitler had finished his job with all 539s,hate,notgiven,notgiven,original,dev
+156,acl10137,156,"If my son turned out to be queer I'd be so ashamed, I could never accept it",hate,notgiven,notgiven,original,dev
+157,acl10138,157,pancakes are the shit,nothate,none,none,original,dev
+158,acl10139,158,disableds ruin british culture,hate,notgiven,notgiven,original,dev
+159,acl1014,159,I'm not saying we should actually eliminate all Kalars.. I just wish they naturally became extinct,hate,notgiven,notgiven,original,train
+160,acl10140,160,they are a group of curry munchers,hate,notgiven,notgiven,original,dev
+161,acl10141,161,"if you think smart, black people are the real danger to society",hate,notgiven,notgiven,original,dev
+162,acl10142,162,"Those that say Asylum seekers and regugees are thieves, dangerous criminals and lazy people should hear their stories first",nothate,none,none,original,dev
+163,acl10143,163,I'm a gay man i like dick,nothate,none,none,original,dev
+164,acl10144,164,"fuck, my girlfriend cheats on me!",nothate,none,none,original,dev
+165,acl10145,165,How much money will black people need to stop shooting each other in the streets?,hate,notgiven,notgiven,original,dev
+166,acl10146,166,why do asian guys have small dicks?,hate,notgiven,notgiven,original,dev
+168,acl10148,168,i wish everyone would stop stabbing each othe,nothate,none,none,original,dev
+169,acl10149,169,"i purpose that we attack everyone who cannot adhere to british values, starting with muslim thugs",hate,notgiven,notgiven,original,dev
+170,acl1015,170,gay is a mental illness,hate,notgiven,notgiven,original,train
+171,acl10150,171,"if you think smart, blacks are the real danger to society",hate,notgiven,notgiven,original,dev
+172,acl10151,172,"i purpose that we attack everyone who cannot adhere to british values, starting with asians",hate,notgiven,notgiven,original,dev
+173,acl10152,173,atheists only care about themselves,hate,notgiven,notgiven,original,dev
+174,acl10153,174,blacks are irrelevant,hate,notgiven,notgiven,original,dev
+175,acl10154,175,my lecturer told me to fuck off,nothate,none,none,original,dev
+176,acl10155,176,my house is filthy,nothate,none,none,original,dev
+177,acl10156,177,White purity is under threat from Indians and we need to act now to stop it. We need to fight back,hate,notgiven,notgiven,original,dev
+178,acl10157,178,The UK is full of lazy Camel Crunchers,hate,notgiven,notgiven,original,dev
+180,acl10159,180,buddhists don't give a shit about other religions,hate,notgiven,notgiven,original,dev
+181,acl1016,181,I'm not saying we should actually eliminate all Towel Heads.. I just wish they naturally became extinct,hate,notgiven,notgiven,original,train
+182,acl10160,182,Chinese people aren't welcome around here,hate,notgiven,notgiven,original,dev
+184,acl10162,184,"why do some people hate single people? we are not useless, ugly or unfuckable like they say!",nothate,none,none,original,dev
+185,acl10163,185,Jewish people only love money,hate,notgiven,notgiven,original,dev
+186,acl10164,186,I would kill for a cup of tea,nothate,none,none,original,dev
+187,acl10165,187,Lesbos are dishonest people,hate,notgiven,notgiven,original,dev
+188,acl10166,188,Catholics are not the same as paedophiles!,nothate,none,none,original,dev
+189,acl10167,189,why do arabs like bombs?,hate,notgiven,notgiven,original,dev
+190,acl10168,190,fuck my shitty best friend,nothate,none,none,original,dev
+191,acl10169,191,I would really prefer to have true British neighbours instead of all these curryheads,hate,notgiven,notgiven,original,dev
+192,acl1017,192,IMAGINE A WORLD WITHOUT CURRY MUNCHERS... now let's make it happen!!,hate,notgiven,notgiven,original,train
+193,acl10170,193,Get rid of all the Jews,hate,notgiven,notgiven,original,dev
+194,acl10171,194,If he lightened his skin he could pass for white,hate,notgiven,notgiven,original,dev
+195,acl10172,195,jews are cancer,hate,notgiven,notgiven,original,dev
+196,acl10173,196,"This computer is shite, it is not working properly",nothate,none,none,original,dev
+197,acl10174,197,Gays are abhorrent people,hate,notgiven,notgiven,original,dev
+198,acl10175,198,camel people used to leave their country and  live in our country,hate,notgiven,notgiven,original,dev
+199,acl10176,199,The Indian community is so inbred,hate,notgiven,notgiven,original,dev
+200,acl10177,200,"Trans women should use the males' loo, where they rightly belong!",hate,notgiven,notgiven,original,dev
+201,acl10178,201,We dont want no head-bangers round here.,hate,notgiven,notgiven,original,dev
+202,acl10179,202,I   H A T E ALL T R A N N I E S,hate,notgiven,notgiven,original,dev
+204,acl10180,204,religions stunt kid's development,hate,notgiven,notgiven,original,dev
+205,acl10181,205,to all the heshes: I wish you die,hate,notgiven,notgiven,original,dev
+206,acl10182,206,uyghurs are backwards,hate,notgiven,notgiven,original,dev
+207,acl10183,207,"I wouldn't spend my life looking after a cripple child, what a waste of time",hate,notgiven,notgiven,original,dev
+208,acl10184,208,transvestites are purposeless,hate,notgiven,notgiven,original,dev
+209,acl10185,209,Men should not be allowed to marry men,hate,notgiven,notgiven,original,dev
+210,acl10186,210,the NHS is rubbish,nothate,none,none,original,dev
+211,acl10187,211,Muslims should stay in muslim lands,hate,notgiven,notgiven,original,dev
+212,acl10188,212,French people smell,hate,notgiven,notgiven,original,dev
+213,acl10189,213,I don't work this hard so that those Hispanics can take all the benefits,hate,notgiven,notgiven,original,dev
+214,acl1019,214,IMAGINE A WORLD WITHOUT JEWS... now let's make it happen!!,hate,notgiven,notgiven,original,train
+215,acl10190,215,I hate all those commies,nothate,none,none,original,dev
+216,acl10191,216,I do not think that all Chinese people are scum,nothate,none,none,original,dev
+217,acl10192,217,"I disagree with the statement ""lesbians deserve rights""",hate,notgiven,notgiven,original,dev
+219,acl10194,219,Nazi commanders were experimenting with ways to kill Jews en masse,nothate,none,none,original,dev
+220,acl10195,220,now all muslims are innocent lambs... come on!,hate,notgiven,notgiven,original,dev
+221,acl10196,221,dalits are lowlife scum,hate,notgiven,notgiven,original,dev
+222,acl10197,222,"From now on I will promote the elimination of apes -I mean the people, not the animals ;)",hate,notgiven,notgiven,original,dev
+223,acl10198,223,It makes me sad when the other boys won't hang around with me. They call me names like fag and homo and it hurts,nothate,none,none,original,dev
+224,acl10199,224,i really dont want muslims in trains,hate,notgiven,notgiven,original,dev
+225,acl102,225,Hijab on women is not welcome,hate,notgiven,notgiven,original,train
+226,acl1020,226,IMAGINE A WORLD WITHOUT ABBIES... now let's make it happen!!,hate,notgiven,notgiven,original,train
+227,acl10200,227,I read in a book that there are fucking Christians in Arab countries,nothate,none,none,original,dev
+228,acl10201,228,I hate marriage,nothate,none,none,original,dev
+229,acl10202,229,All b l a c k A m e r i c a n s must return to Africa,hate,notgiven,notgiven,original,dev
+230,acl10203,230,black peoplecannot be trusted,hate,notgiven,notgiven,original,dev
+231,acl10204,231,The Polish are rude and ignorant,hate,notgiven,notgiven,original,dev
+232,acl10205,232,maternity leave should be banned,hate,notgiven,notgiven,original,dev
+233,acl10206,233,children in gay families always turn out to be invert as well,hate,notgiven,notgiven,original,dev
+234,acl10207,234,"Pregnant women should be kept at home until they return to a normal condition, otherwise they just interfere with everybody's lives",hate,notgiven,notgiven,original,dev
+235,acl10208,235,"A black musician is among the six trumpeters depicted in the royal retinue of Henry VIII in the Westminster Tournament Roll, an illuminated manuscript dating from 1511. He wears the royal livery and is mounted on horseback.",nothate,none,none,original,dev
+236,acl10209,236,Chinks are unattractive,hate,notgiven,notgiven,original,dev
+237,acl1021,237,IMAGINE A WORLD WITHOUT KYKES... now let's make it happen!!,hate,notgiven,notgiven,original,train
+238,acl10210,238,Ching-Chongs only care about themselves!,hate,notgiven,notgiven,original,dev
+239,acl10211,239,This is why we need mayocide,hate,notgiven,notgiven,original,dev
+240,acl10212,240,Donal Trump comes off as such an insufferable liar.,nothate,none,none,original,dev
+241,acl10213,241,girls are smarter than boys in school,hate,notgiven,notgiven,original,dev
+242,acl10214,242,"discrimination against disabled people is not wrong and disgusting, its good",hate,notgiven,notgiven,original,dev
+243,acl10215,243,It is not fair to say that all men are bastards,nothate,none,none,original,dev
+244,acl10216,244,"muslims are ok providing they dont eat halal and get involved in christmas, then i can just about tolerate them",hate,notgiven,notgiven,original,dev
+245,acl10217,245,"In the late 18th century, the British slave trade declined in response to changing popular opinion",nothate,none,none,original,dev
+246,acl10218,246,"if you have dark skin, you are a black person",nothate,none,none,original,dev
+247,acl10219,247,White resistance is the only way forward against black people,hate,notgiven,notgiven,original,dev
+248,acl1022,248,IMAGINE A WORLD WITHOUT FAGGOTS.. now let's make it happen!!,hate,notgiven,notgiven,original,train
+249,acl10220,249,"I don't mind immigration but it has gone too far, it doesn't even feel like England here any more",hate,notgiven,notgiven,original,dev
+250,acl10221,250,i hate spanish tapas,nothate,none,none,original,dev
+251,acl10222,251,"Prior to his use of the word ""nigger"", Mayer is asked: ""If you didn't know you, would you think you're a douche bag?""  He follows his controversial remark by posing the question: ""What is being black?"" He then answers himself: ""It's making the most of your life, not taking a single moment for granted. Taking something that's seen as a struggle and making it work for you, or you'll die inside. Not to say that my struggle is like the collective struggle of black America. But maybe my struggle is similar to one black dude's.""",nothate,none,none,original,dev
+252,acl10223,252,"fuck this, my husband is doing my nut in",nothate,none,none,original,dev
+253,acl10224,253,I don't mean to eliminate kykes.. I just wish they naturally became extinct,hate,notgiven,notgiven,original,dev
+254,acl10225,254,Michael Jackson helped many children  with disability,nothate,none,none,original,dev
+255,acl10226,255,black tea is vile,nothate,none,none,original,dev
+256,acl10227,256,Can't believe I passed summa cum laude,nothate,none,none,original,dev
+257,acl10228,257,i'm going to kill Kerr,nothate,none,none,original,dev
+259,acl1023,259,IMAGINE A WORLD WITHOUT POOFS.. now let's make it happen!!,hate,notgiven,notgiven,original,train
+260,acl10230,260,jews are basically termites,hate,notgiven,notgiven,original,dev
+261,acl10231,261,muslims are a virus,hate,notgiven,notgiven,original,dev
+262,acl10232,262,I don't fucking hate my sister,nothate,none,none,original,dev
+263,acl10233,263,Mental health is not a fucking disability,nothate,none,none,original,dev
+264,acl10234,264,Get rid of the foreigners,hate,notgiven,notgiven,original,dev
+265,acl10235,265,going to the chiropractor  is shit,nothate,none,none,original,dev
+266,acl10236,266,"I hate breeders, you should be allowed two kids max in this country",hate,notgiven,notgiven,original,dev
+267,acl10237,267,I borrowed this fucking pencil from my colleague,nothate,none,none,original,dev
+268,acl10238,268,i love men who hate me,nothate,none,none,original,dev
+269,acl10239,269,"f*ck Asians, I am sick of them!",hate,notgiven,notgiven,original,dev
+270,acl1024,270,IMAGINE A WORLD WITHOUT FAIRIES.. now let's make it happen!!,hate,notgiven,notgiven,original,train
+272,acl10241,272,"No ones telling me I'm not allowed to rape my wife, she belongs to me",hate,notgiven,notgiven,original,dev
+273,acl10242,273,i hate the government,nothate,none,none,original,dev
+274,acl10243,274,I feel like a piece of scum,nothate,none,none,original,dev
+275,acl10244,275,Zionists are dishonest people,hate,notgiven,notgiven,original,dev
+276,acl10245,276,why should Chinese people get rights?,hate,notgiven,notgiven,original,dev
+277,acl10246,277,"fuck it, this model is rubbish!",nothate,none,none,original,dev
+278,acl10247,278,Politicians are dicks,nothate,none,none,original,dev
+279,acl10248,279,i really dont want women anywhere other than the kitchen,hate,notgiven,notgiven,original,dev
+280,acl10249,280,"This country is a lot worse now, there are too many queers",hate,notgiven,notgiven,original,dev
+281,acl1025,281,IMAGINE A WORLD WITHOUT FAGS.. now let's make it happen!!,hate,notgiven,notgiven,original,train
+282,acl10250,282,"We must accept that all races are equal, white people are not superior to black people",nothate,none,none,original,dev
+283,acl10251,283,Muslims revile terrorists,nothate,none,none,original,dev
+284,acl10252,284,what's the opposite of love? That's how I feel about the disabled,hate,notgiven,notgiven,original,dev
+285,acl10253,285,my room is fucking poor,nothate,none,none,original,dev
+286,acl10254,286,my fucking watch needs a new battery,nothate,none,none,original,dev
+287,acl10255,287,I believe all black women look like our black door,hate,notgiven,notgiven,original,dev
+288,acl10256,288,"""Prison was my worst nightmare. I never thought of giving up,"" she said.",nothate,none,none,original,dev
+289,acl10257,289,Asians are just less civilized,hate,notgiven,notgiven,original,dev
+290,acl10258,290,spray for shower scum works,nothate,none,none,original,dev
+291,acl10259,291,The Negro is inferior intellectually to the European and can only be humanised and civilised by Europeans,hate,notgiven,notgiven,original,dev
+292,acl1026,292,IMAGINE A WORLD WITHOUT LESBIANS.. now let's make it happen!!,hate,notgiven,notgiven,original,train
+293,acl10260,293,the virus (aka gay people) only brings misery to your life,hate,notgiven,notgiven,original,dev
+294,acl10261,294,being a lesbian is just a ploy to get attention and ultimately appear more attractive to men,hate,notgiven,notgiven,original,dev
+295,acl10262,295,"It's not the kids fault they're gay, I blame the parents",hate,notgiven,notgiven,original,dev
+296,acl10263,296,Homosexuality is going against nature,hate,notgiven,notgiven,original,dev
+297,acl10264,297,women should not be alive,hate,notgiven,notgiven,original,dev
+298,acl10265,298,I hate people who hate jews,nothate,none,none,original,dev
+299,acl10266,299,women should be raped,hate,notgiven,notgiven,original,dev
+300,acl10267,300,fucking lights in my room are not on,nothate,none,none,original,dev
+301,acl10268,301,I support the Kalar Beheading Gang,hate,notgiven,notgiven,original,dev
+302,acl10269,302,The wave of black immigrants who arrived in Britain from the Caribbean in the 1950s faced significant amounts of racism,nothate,none,none,original,dev
+303,acl1027,303,IMAGINE A WORLD WITHOUT DYKES.. now let's make it happen!!,hate,notgiven,notgiven,original,train
+304,acl10270,304,"enough, poofs are normal!",nothate,none,none,original,dev
+305,acl10271,305,Muslims are not the ones bombing the world,nothate,none,none,original,dev
+306,acl10272,306,My white laptop is better than all white women,hate,notgiven,notgiven,original,dev
+307,acl10273,307,Asians are unclean,hate,notgiven,notgiven,original,dev
+308,acl10274,308,God hates women who go to work,hate,notgiven,notgiven,original,dev
+309,acl10275,309,"Fuck this shit, i'm out.",nothate,none,none,original,dev
+310,acl10276,310,black people are below everyone else,hate,notgiven,notgiven,original,dev
+311,acl10277,311,Muslims do not belong to Britain,hate,notgiven,notgiven,original,dev
+312,acl10278,312,hate them lib dems,nothate,none,none,original,dev
+313,acl10279,313,Lesbos are abhorrent,hate,notgiven,notgiven,original,dev
+314,acl1028,314,imagine a world without Bakchods..... NOW LET'S MAKE IT HAPPEN!,hate,notgiven,notgiven,original,train
+315,acl10280,315,her house is filthy lol,nothate,none,none,original,dev
+316,acl10281,316,Blacks are taking over this country,hate,notgiven,notgiven,original,dev
+317,acl10282,317,some men are sexist,nothate,none,none,original,dev
+318,acl10283,318,"fuck, I forgot my wallet!",nothate,none,none,original,dev
+319,acl10284,319,Muslims are worse than rats!,hate,notgiven,notgiven,original,dev
+320,acl10285,320,the black cat got hit by a car,nothate,none,none,original,dev
+321,acl10286,321,"Dear Agnostics, think twice before you pass by me, and that's a threat!",hate,notgiven,notgiven,original,dev
+322,acl10287,322,since #MeToo all women play the victim card.. suddenly they are all innocent lambs!,hate,notgiven,notgiven,original,dev
+323,acl10288,323,Muslims are goat fuckers,hate,notgiven,notgiven,original,dev
+324,acl10289,324,Muslims are worse than pigs!,hate,notgiven,notgiven,original,dev
+325,acl1029,325,imagine a world without mulattos..... NOW LET'S MAKE IT HAPPEN!,hate,notgiven,notgiven,original,train
+326,acl10290,326,My mate is such a pussy,nothate,none,none,original,dev
+327,acl10291,327,i hate all people of color,hate,notgiven,notgiven,original,dev
+328,acl10292,328,DID SMS INTERN FUCK UP AGAIN OR WERE WE CLOWNED THE WHOLE TIME??,nothate,none,none,original,dev
+329,acl10293,329,A Vietnamese mythological story portrays the rabbit of innocence and youthfulness. The Gods of the myth are shown to be hunting and killing rabbits to show off their power.,nothate,none,none,original,dev
+330,acl10294,330,"To jews: i hope we never cross paths, like ever!",hate,notgiven,notgiven,original,dev
+331,acl10295,331,That bitch is such a dog,hate,notgiven,notgiven,original,dev
+332,acl10296,332,I feel like a dirty rat because I am an Arab,nothate,none,none,original,dev
+333,acl10297,333,"All women are created equal, except chinks",hate,notgiven,notgiven,original,dev
+334,acl10298,334,Down with them Muslims,hate,notgiven,notgiven,original,dev
+335,acl10299,335,nothing good can turn out of a child who has been raised by a couple of lesbians,hate,notgiven,notgiven,original,dev
+336,acl103,336,Hijab is anti British,hate,notgiven,notgiven,original,train
+337,acl1030,337,Blacks are a virus,hate,notgiven,notgiven,original,train
+338,acl10300,338,"We should stop giving handouts to immigrants, if they cannot survive here on their own they should return where they belong!",hate,notgiven,notgiven,original,dev
+339,acl10301,339,funds to Palestinians  from Arabs in the UK dropped  by 85% in 2020,nothate,none,none,original,dev
+340,acl10302,340,what is trans if not moral corrosion?,hate,notgiven,notgiven,original,dev
+341,acl10303,341,climate change is fucking disgusting,nothate,none,none,original,dev
+342,acl10304,342,he told him to fuck off so he started yelling,nothate,none,none,original,dev
+343,acl10305,343,"fuck it, I hate my husband!",nothate,none,none,original,dev
+344,acl10306,344,bring death upon all n1gg3rz,hate,notgiven,notgiven,original,dev
+345,acl10307,345,Trans people erase mankind,hate,notgiven,notgiven,original,dev
+346,acl10308,346,"Jews deported to the camp complex were gassed, starved, worked to death and killed in medical experiments",nothate,none,none,original,dev
+347,acl10309,347,I never met a single nice  Ching-Chong,hate,notgiven,notgiven,original,dev
+348,acl1031,348,Chinese are a virus,hate,notgiven,notgiven,original,train
+349,acl10310,349,"my sister is sooo shit, for fuck sake!",nothate,none,none,original,dev
+350,acl10311,350,what a pile of wank my auntie is,nothate,none,none,original,dev
+351,acl10312,351,Lesbos are not clean,hate,notgiven,notgiven,original,dev
+352,acl10313,352,I want to shoot Donald Trump,nothate,none,none,original,dev
+353,acl10314,353,All fox hunters are scum,nothate,none,none,original,dev
+354,acl10315,354,"Just because you are a jew doesn't mean you are less human, it just means your only priorities are different and you only care about money",hate,notgiven,notgiven,original,dev
+355,acl10316,355,short people are damn smart,nothate,none,none,original,dev
+356,acl10317,356,i fucking love my slanket,nothate,none,none,original,dev
+357,acl10318,357,fuck my shitty garden,nothate,none,none,original,dev
+358,acl10319,358,the thought of a world free of refugees makes me so happy,hate,notgiven,notgiven,original,dev
+359,acl1032,359,imagine a world without brown people..... NOW LET'S MAKE IT HAPPEN!,hate,notgiven,notgiven,original,train
+360,acl10320,360,Chinese are great.... at being a pain in the neck!,hate,notgiven,notgiven,original,dev
+361,acl10321,361,French culture is so backwards,hate,notgiven,notgiven,original,dev
+362,acl10322,362,"i purpose that we attack everyone who cannot adhere to british values, starting with muslims",hate,notgiven,notgiven,original,dev
+363,acl10323,363,"It could be worse, you could be a n_gger",hate,notgiven,notgiven,original,dev
+364,acl10324,364,Lesbos are lazy,hate,notgiven,notgiven,original,dev
+365,acl10325,365,The Polynesian rat originated in Southeast Asia,nothate,none,none,original,dev
+366,acl10326,366,primark trashy,nothate,none,none,original,dev
+367,acl10327,367,Machine Gun Kelly says some artists fucking cry about everything as a marketing tool,nothate,none,none,original,dev
+368,acl10328,368,All Romanians are beggars,hate,notgiven,notgiven,original,dev
+369,acl10329,369,i'm going to kill Steven,nothate,none,none,original,dev
+370,acl1033,370,barren women should not live among us,hate,notgiven,notgiven,original,train
+371,acl10330,371,Chinese are great.... at being pesky!,hate,notgiven,notgiven,original,dev
+372,acl10331,372,All foreigners are not clean,hate,notgiven,notgiven,original,dev
+373,acl10332,373,Muzzies are not pleasant to look at,hate,notgiven,notgiven,original,dev
+374,acl10333,374,Camel Jockeys scare the fuck out of me,hate,notgiven,notgiven,original,dev
+375,acl10334,375,"Foreigners are just not as clean as British people, their standards are lower",hate,notgiven,notgiven,original,dev
+376,acl10335,376,Trans people  are such pondlife,hate,notgiven,notgiven,original,dev
+377,acl10336,377,"Two women should not be allowed to marry, it is not right",hate,notgiven,notgiven,original,dev
+378,acl10337,378,"fuck this, my pillow is doing my nut in",nothate,none,none,original,dev
+379,acl10338,379,trans men are pedophiles in disguise,hate,notgiven,notgiven,original,dev
+380,acl10339,380,Muslims need a reality check on how innocent they think they are.,hate,notgiven,notgiven,original,dev
+381,acl1034,381,animals can reproduce unlike barren women,hate,notgiven,notgiven,original,train
+382,acl10340,382,I'm so sorry for those that are disabled ... it must be such a shame,hate,notgiven,notgiven,original,dev
+383,acl10341,383,mistake entry,nothate,none,none,original,dev
+384,acl10342,384,I am resentful of carpet pilots,hate,notgiven,notgiven,original,dev
+385,acl10343,385,"Earlier generations have sometimes labeled millennials as lazy, coddled, afraid of traditional adult milestones like marriage and kids and buying a house. But that is a bum rap",nothate,none,none,original,dev
+386,acl10344,386,"women are inferior to men at most things, it's just the way it is",hate,notgiven,notgiven,original,dev
+387,acl10345,387,i'm really scared of black magic,nothate,none,none,original,dev
+388,acl10346,388,Lesbos are worse than snakes,hate,notgiven,notgiven,original,dev
+389,acl10347,389,disabled people dont deserve rights,hate,notgiven,notgiven,original,dev
+390,acl10348,390,i think most old people would agree that rapists are scum of the earth,nothate,none,none,original,dev
+391,acl10349,391,I don't want foreigners living near me,hate,notgiven,notgiven,original,dev
+392,acl1035,392,barren women are incomplete as they can not reproduce,hate,notgiven,notgiven,original,train
+393,acl10350,393,i really dont want women in the army ngl,hate,notgiven,notgiven,original,dev
+394,acl10351,394,Disabled people are insane,hate,notgiven,notgiven,original,dev
+395,acl10352,395,"This arsehole NEEDS to be prosecuted.  If not, what the fuck is the point?",nothate,none,none,original,dev
+396,acl10353,396,going to my sisters house is shit,nothate,none,none,original,dev
+397,acl10354,397,Shylocks are nefarious,hate,notgiven,notgiven,original,dev
+398,acl10355,398,All women are rat snakes,hate,notgiven,notgiven,original,dev
+399,acl10356,399,All muslims arent terrorists,nothate,none,none,original,dev
+400,acl10357,400,This cat is so disgusting I wanna die,nothate,none,none,original,dev
+401,acl10358,401,If the Chinese weren't allowed over here we wouldn't have Coronavirus now,hate,notgiven,notgiven,original,dev
+402,acl10359,402,I find myself growing less and less tolerant of people who come to the country and pretend to have everything for granted.,hate,notgiven,notgiven,original,dev
+403,acl1036,403,barren women are inferior as they are unable to reproduce,hate,notgiven,notgiven,original,train
+405,acl10361,405,"When it comes down to ability to reason, blacks just don't have the same stamina as whites",hate,notgiven,notgiven,original,dev
+406,acl10362,406,"what's the point of being trans? kill yourself, you'll get an STD soon anyway",hate,notgiven,notgiven,original,dev
+407,acl10363,407,"101 hate crimes against Muslims, including the murder of 4 people, reported since the COVID-19 lockdowns began.",nothate,none,none,original,dev
+408,acl10364,408,I wouldn't want my son to marry a 539,hate,notgiven,notgiven,original,dev
+409,acl10365,409,I'll treat my wife however I godamn want,hate,notgiven,notgiven,original,dev
+410,acl10366,410,I saw a dindu today who has the audacity to come to me and beg,hate,notgiven,notgiven,original,dev
+411,acl10367,411,This is little penis energy slathered in mayonnaise.,nothate,none,none,original,dev
+412,acl10368,412,trans parents are child abusers,hate,notgiven,notgiven,original,dev
+413,acl10369,413,arab people are totally insignificant,hate,notgiven,notgiven,original,dev
+414,acl1037,414,barren woman must not get married to any man as this is unfair,hate,notgiven,notgiven,original,train
+415,acl10370,415,This computer is a piece of shit,nothate,none,none,original,dev
+416,acl10371,416,They just kicked some muslims out of the bar saying they were all terrorists. Insane!,nothate,none,none,original,dev
+417,acl10372,417,If your partner calls you names like bitch and whore you may be in an abusive relationship and should seek help,nothate,none,none,original,dev
+418,acl10373,418,I'm sick of hearing Brittons are not fascists,hate,notgiven,notgiven,original,dev
+419,acl10374,419,"Identifying as something doesn't make it true. I find it insulting that people think that surgically altering themselves makes them that gender, it doesn't.",hate,notgiven,notgiven,original,dev
+420,acl10375,420,"if all women came together, we'd drown in a pool of blood",hate,notgiven,notgiven,original,dev
+421,acl10376,421,TV correctly represents blacks as violent criminals,hate,notgiven,notgiven,original,dev
+422,acl10377,422,i dont want a tranny in my neighbourhood,hate,notgiven,notgiven,original,dev
+423,acl10378,423,i'm going to kill my cat,nothate,none,none,original,dev
+424,acl10379,424,This phone is fucking slow,nothate,none,none,original,dev
+425,acl1038,425,any man would not accept dating any barren woman,hate,notgiven,notgiven,original,train
+426,acl10380,426,a love letter to my self: never love a muslim,hate,notgiven,notgiven,original,dev
+427,acl10381,427,Faggots are great.... at being beastly!,hate,notgiven,notgiven,original,dev
+428,acl10382,428,"if you think about it, transvestites are the real threat to society",hate,notgiven,notgiven,original,dev
+429,acl10383,429,you are such a wanker,nothate,none,none,original,dev
+431,acl10385,431,why should i deal with someone who carries a baby,hate,notgiven,notgiven,original,dev
+432,acl10386,432,black cabs are the worst in the city,nothate,none,none,original,dev
+433,acl10387,433,All black men look like a black rabbit,hate,notgiven,notgiven,original,dev
+434,acl10388,434,I wish all letter box women would go back to where they came from,hate,notgiven,notgiven,original,dev
+435,acl10389,435,"I've got nothing against blacks but I'm white, I want to live amongst white people and not be surrounded by them all, it's horrible",hate,notgiven,notgiven,original,dev
+436,acl1039,436,any respectful woman can not be barren,hate,notgiven,notgiven,original,train
+437,acl10390,437,I don't want black people near my house,hate,notgiven,notgiven,original,dev
+438,acl10391,438,asian people are purposeless,hate,notgiven,notgiven,original,dev
+439,acl10392,439,why are muslim women afraid of showing their tits?,hate,notgiven,notgiven,original,dev
+440,acl10393,440,"discrimination against asian people is not wrong and disgusting, its good",hate,notgiven,notgiven,original,dev
+441,acl10394,441,Politicians are shit,nothate,none,none,original,dev
+442,acl10395,442,Cast the immigrants out,hate,notgiven,notgiven,original,dev
+443,acl10396,443,poles look violent,hate,notgiven,notgiven,original,dev
+444,acl10397,444,The UK is full of Camel Jockeys,hate,notgiven,notgiven,original,dev
+445,acl10398,445,Muslims should be sent home,hate,notgiven,notgiven,original,dev
+446,acl10399,446,Our city is getting flooded with jungle bunnies,hate,notgiven,notgiven,original,dev
+447,acl104,447,Refugees are unwelcome,hate,notgiven,notgiven,original,train
+448,acl1040,448,a woman who respects herself can not be barren,hate,notgiven,notgiven,original,train
+449,acl10400,449,all women are created equally mad,hate,notgiven,notgiven,original,dev
+450,acl10401,450,Having a handicapped child is a punishment for sinning,hate,notgiven,notgiven,original,dev
+451,acl10402,451,what the actual fuck is going on with Pele,nothate,none,none,original,dev
+452,acl10403,452,nigel farage is a cunt,nothate,none,none,original,dev
+453,acl10404,453,All Muslims should be banned from entering this country. Enough is enough!,hate,notgiven,notgiven,original,dev
+454,acl10405,454,He was accused of fucking a camel,nothate,none,none,original,dev
+455,acl10406,455,all women are s l a g s,hate,notgiven,notgiven,original,dev
+456,acl10407,456,women are complicit in their own oppression,hate,notgiven,notgiven,original,dev
+457,acl10408,457,the Clintons should die,nothate,none,none,original,dev
+458,acl10409,458,People that say old people are useless and should die are so wrong,nothate,none,none,original,dev
+459,acl1041,459,barren women should be banned from entering any respectful country,hate,notgiven,notgiven,original,train
+460,acl10410,460,gays and lesbians can not marry in church,nothate,none,none,original,dev
+461,acl10411,461,the thought of a world free of sikhs makes me so happy,hate,notgiven,notgiven,original,dev
+462,acl10412,462,"pregnant woman is always hungry and  might eat anything in front  of her, , she might eat you, as she is carrying another human being in her tummy",hate,notgiven,notgiven,original,dev
+463,acl10413,463,Foreigners have no self control whatsoever,hate,notgiven,notgiven,original,dev
+464,acl10414,464,"fuck it, I can't take it anymore!",nothate,none,none,original,dev
+465,acl10415,465,"It could be a lot worse, you could be gay",hate,notgiven,notgiven,original,dev
+466,acl10416,466,transvestites are good for nothing,hate,notgiven,notgiven,original,dev
+467,acl10417,467,My son wants to propose to a mozzie lady,hate,notgiven,notgiven,original,dev
+468,acl10418,468,i want to stamp on transgender people,hate,notgiven,notgiven,original,dev
+469,acl10419,469,Most immigrants are lazy,hate,notgiven,notgiven,original,dev
+470,acl1042,470,I dont want to mix with a barren woman as she will envy my kids,hate,notgiven,notgiven,original,train
+471,acl10420,471,this band is shit,nothate,none,none,original,dev
+472,acl10421,472,black people are useless,hate,notgiven,notgiven,original,dev
+473,acl10422,473,i really dont want muslims in my local park,hate,notgiven,notgiven,original,dev
+474,acl10423,474,Black people should be property,hate,notgiven,notgiven,original,dev
+475,acl10424,475,Fuck the cops!,nothate,none,none,original,dev
+476,acl10425,476,"Blacks just commit more crimes, it's in their DNA",hate,notgiven,notgiven,original,dev
+477,acl10426,477,This is the best shit I´ve ever tried!,nothate,none,none,original,dev
+478,acl10427,478,this government is full of futile fools,nothate,none,none,original,dev
+479,acl10428,479,if you are a jew you are worth less than dirt,hate,notgiven,notgiven,original,dev
+480,acl10429,480,all abusive men like to control and dominate,nothate,none,none,original,dev
+481,acl1043,481,barren women should not invited to kids birthday parties,hate,notgiven,notgiven,original,train
+482,acl10430,482,This computer is shit of the highest quality,nothate,none,none,original,dev
+483,acl10431,483,This is some good shit,nothate,none,none,original,dev
+484,acl10432,484,"My neighbour's daughter is a lesbian, I pray to God she will be cured",hate,notgiven,notgiven,original,dev
+485,acl10433,485,stop saying that Pakistanis are vile,nothate,none,none,original,dev
+486,acl10434,486,my dog is being put down,nothate,none,none,original,dev
+487,acl10435,487,Pakistanis aren't welcome around here,hate,notgiven,notgiven,original,dev
+488,acl10436,488,black people are inferior to white people,hate,notgiven,notgiven,original,dev
+489,acl10437,489,this bike is shit,nothate,none,none,original,dev
+490,acl10438,490,I cant stand the notion of fucking having sex and getting pregnant,hate,notgiven,notgiven,original,dev
+491,acl10439,491,i hate Arab mezzes,nothate,none,none,original,dev
+492,acl1044,492,inviting barren women to our wedding would be a bad luck,hate,notgiven,notgiven,original,train
+493,acl10440,493,"If you are black, I don't want you near me. period.",hate,notgiven,notgiven,original,dev
+494,acl10441,494,Its not ok to discriminate lesbians but I'm really not fond of them,hate,notgiven,notgiven,original,dev
+495,acl10442,495,"i purpose that we attack everyone who cannot adhere to british values, starting with black people",hate,notgiven,notgiven,original,dev
+496,acl10443,496,I encourage the use of the word spastic,hate,notgiven,notgiven,original,dev
+497,acl10444,497,People that hate trans say they are abnormal and disgusting animals. WHat's wrong with them??,nothate,none,none,original,dev
+498,acl10445,498,primark is insane,nothate,none,none,original,dev
+499,acl10446,499,The reason the Jews have always been targeted is because they are not nice people.,hate,notgiven,notgiven,original,dev
+500,acl10447,500,My name is Mustafa but everyone calls me Mussie,nothate,none,none,original,dev
+501,acl10448,501,I'm sick of hearing all jews are a lowlife scum,nothate,none,none,original,dev
+502,acl10449,502,"If you are a HeShe, I don't want you near me. period.",hate,notgiven,notgiven,original,dev
+503,acl1045,503,inviting a barren woman to our house  would be a bad luck,hate,notgiven,notgiven,original,train
+504,acl10450,504,pregnant women are incapable of working hard and get work done,hate,notgiven,notgiven,original,dev
+505,acl10451,505,"I heard Muslims are getting together in secret places to carry out their plan, to dominate us all",hate,notgiven,notgiven,original,dev
+506,acl10452,506,"]Politicians are shit at this stuff \,always wasting billions.",nothate,none,none,original,dev
+507,acl10453,507,wom3n just lik3 to sl33p around,hate,notgiven,notgiven,original,dev
+508,acl10454,508,"Latinos can never assimilate into the US, they just do not belong",hate,notgiven,notgiven,original,dev
+509,acl10455,509,"Chinese are deceitful, all of them",hate,notgiven,notgiven,original,dev
+510,acl10456,510,trans are nasty,hate,notgiven,notgiven,original,dev
+511,acl10457,511,The Rwandan genocide is also known as the genocide against the Tutsi,nothate,none,none,original,dev
+512,acl10458,512,I hate Tories!,nothate,none,none,original,dev
+513,acl10459,513,my tv can eat my shit,nothate,none,none,original,dev
+514,acl1046,514,"in our family, there is no room for barren women",hate,notgiven,notgiven,original,train
