@@ -18,7 +18,7 @@ def evaluate_image_model(test_data_path: str = "image_test_data.csv") -> Dict:
     
     for image_path in tqdm(image_paths, desc="Processing images"):
         result = model.predict(image_path)
-        
+        print(result)
         predictions.append(result["prediction"])
         scores.append(result["confidence"])
         

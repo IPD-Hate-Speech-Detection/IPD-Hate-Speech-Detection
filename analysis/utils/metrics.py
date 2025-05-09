@@ -10,7 +10,8 @@ def calculate_binary_metrics(y_true: List[str], y_pred: List[str],
     
     if all(isinstance(label, str) for label in y_true):
         true_label_map = {'hate': 1, 'not_hate': 0}
-        pred_label_map = {'HATE-SPEECH': 1, 'NEITHER': 0}
+        # pred_label_map = {'HATE-SPEECH': 1, 'NEITHER': 0}
+        pred_label_map = {'hate': 1, 'not-hate': 0}
         y_true_bin = [true_label_map.get(label, 0) for label in y_true]
         y_pred_bin = [pred_label_map.get(label, 0) for label in y_pred]
     else:

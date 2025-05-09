@@ -1,0 +1,17 @@
+{
+    "binary_classification": {
+        "accuracy": 0.975,
+        "precision": 1.0,
+        "recall": 0.975,
+        "f1_score": 0.9873417721518988,
+        "roc_auc": null,
+        "roc_curve": null
+    },
+    "symbol_distribution": {
+        "cut_throat_gesture": 10,
+        "middle_finger": 10,
+        "swastika": 10,
+        "finger_gun_to_the_head": 9,
+        "No hate found, yay!": 1
+    }
+}

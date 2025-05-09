@@ -8,10 +8,12 @@ class ImageModel:
         self.client = Client(MODEL_URLS["image"])
     
     def predict(self, image_path: str) -> Dict:
-        if image_path.startswith(('http://', 'https://')):
-            image = handle_file(image_path)
-        else:
-            image = image_path
+        # if image_path.startswith(('http://', 'https://')):
+        #     image = handle_file(image_path)
+        # else:
+        #     image = image_path
+
+        image = handle_file(image_path)
             
         result = self.client.predict(image, api_name="/predict")
         return result

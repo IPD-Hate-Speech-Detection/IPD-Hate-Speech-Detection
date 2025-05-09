@@ -8,11 +8,11 @@ class AudioModel:
         self.client = Client(MODEL_URLS["audio"])
     
     def predict(self, audio_path: str) -> Dict:
-        if audio_path.startswith(('http://', 'https://')):
-            audio = handle_file(audio_path)
-        else:
-            audio = audio_path
-            
+        # if audio_path.startswith(('http://', 'https://')):
+        #     audio = handle_file(audio_path)
+        # else:
+        #     audio = audio_path
+        audio = handle_file(audio_path)
         result = self.client.predict(audio, api_name="/predict")
         return result
     
