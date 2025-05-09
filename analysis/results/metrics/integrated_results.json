@@ -1,0 +1,10 @@
+{
+    "modality_comparison": {
+        "f1_scores": {
+            "English Text": 0.556390977443609,
+            "Hinglish Text": 0.5590017825311943,
+            "Image": 0.9873417721518988
+        }
+    },
+    "component_contribution": {}
+}

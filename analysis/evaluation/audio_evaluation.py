@@ -22,7 +22,7 @@ def evaluate_audio_model(test_data_path: str = "audio_test_data.csv") -> Dict:
         for audio_path in tqdm(audio_paths, desc="Processing audio files"):
             try:
                 duration = librosa.get_duration(path=audio_path)
-                if duration > 30:
+                if duration > 60:
                     print(f"Skipping {audio_path}: duration {duration:.2f}s exceeds 30s")
                     predictions.append("not_hate")
                     scores.append(0.0)

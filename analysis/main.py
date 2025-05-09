@@ -18,6 +18,8 @@ def load_results() -> Dict:
             model_name = filename.split('_results.json')[0]
             with open(os.path.join(METRICS_PATH, filename), 'r') as f:
                 results[model_name] = json.load(f)
+                if model_name == 'image':
+                    results[model_name] = results[model_name]["binary_classification"]
     return results
 
 def run_evaluation(args):
@@ -59,18 +61,20 @@ def run_evaluation(args):
                 try:
                     with open(os.path.join(METRICS_PATH, f"{model}_results.json"), 'r') as f:
                         results[model] = json.load(f)
+                        if model == 'image':
+                            results[model] = results[model]["binary_classification"]
                 except:
                     print(f"Warning: Could not load results for {model} model")
     
     # Perform integrated analysis
     if args.integrated or args.all:
         # if all(model in results for model in ['english', 'hinglish', 'image', 'audio', 'video']):
-        if all(model in results for model in ['english', 'hinglish', 'image', 'audio']):
+        if all(model in results for model in ['english', 'hinglish', 'image']):
             integrated_results = perform_integrated_analysis(
                 results['english'],
                 results['hinglish'],
                 results['image'],
-                results['audio'],
+                # results['audio'],
                 # results['video']
             )
             results['integrated'] = integrated_results
