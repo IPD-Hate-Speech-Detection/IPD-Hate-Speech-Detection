@@ -17,7 +17,7 @@ def evaluate_english_model(test_data_path: str = "english_test_data.csv") -> Dic
     
     for text in tqdm(texts, desc="Processing English texts"):
         label, score = model.predict(text)
-        # print(label, score)
+        # print(text, label, score)
         predictions.append(label)
         scores.append(score)
     
@@ -41,6 +41,7 @@ def evaluate_hinglish_model(test_data_path: str = "hinglish_test_data.csv") -> D
     
     for text in tqdm(texts, desc="Processing Hinglish texts"):
         label, score = model.predict(text)
+        print(text, label, score)
         predictions.append(label)
         scores.append(score)
     

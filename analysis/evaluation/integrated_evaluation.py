@@ -4,7 +4,7 @@ from utils.metrics import save_metrics
 def perform_integrated_analysis(english_results: Dict, 
                                 hinglish_results: Dict,
                                 image_results: Dict,
-                                # audio_results: Dict,
+                                audio_results: Dict,
                                 # video_results: Dict
                                 ) -> Dict:
     
@@ -14,7 +14,7 @@ def perform_integrated_analysis(english_results: Dict,
         "English Text": english_results["f1_score"],
         "Hinglish Text": hinglish_results["f1_score"],
         "Image": image_results["f1_score"],
-        # "Audio": audio_results.get("binary_classification", {}).get("f1_score", 0),
+        "Audio": audio_results.get("binary_classification", {}).get("f1_score", 0),
         # "Video": video_results.get("binary_classification", {}).get("f1_score", 0)
     }
     
