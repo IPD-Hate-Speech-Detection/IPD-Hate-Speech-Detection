@@ -83,6 +83,8 @@ def plot_distribution(distribution_dict: Dict[str, int],
     plt.close()
 
 def generate_all_visualizations(results_data: Dict[str, Dict]) -> None:
+    results_data.pop('integrated', None)
+    print(results_data)
     for model, data in results_data.items():
         if 'confusion_matrix' in data:
             plot_confusion_matrix(
