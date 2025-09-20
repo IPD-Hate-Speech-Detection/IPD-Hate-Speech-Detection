@@ -1,0 +1,9 @@
+{
+    "SEARCH_KEYWORDS" : "charlie kirk", 
+    "SUBREDDIT_TO_SEARCH" : "politics",
+    "POST_LIMIT" : 5,           
+    "SORT_BY" : "controversial",
+    "TIME_FILTER" : "month",
+    "COMMENT_LIMIT" : 50,
+    "OUTPUT_CSV_FILE" : "data/top_controversial_comments.csv"
+}
