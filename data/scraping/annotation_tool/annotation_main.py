@@ -1,6 +1,7 @@
 import pandas as pd
 import argparse
 import sys
+import os
 
 def get_annotation(text):
     """Prompt user until valid input is given"""
@@ -44,7 +45,7 @@ if __name__ == "__main__":
     parser.add_argument("-o", "--output", default="annotated_comments.csv", help="Output CSV filename")
     args = parser.parse_args()
 
-    all_data = []
+    output_file = args.output
 
     for file in args.input_files:
         try:
@@ -57,15 +58,35 @@ if __name__ == "__main__":
             print(f"❌ File {file} does not have a 'text' column.")
             sys.exit(1)
 
+        # Load existing output if it exists
+        if os.path.exists(args.output):
+            out_df = pd.read_csv(args.output, encoding="utf-8-sig")
+        else:
+            out_df = pd.DataFrame(columns=["text", "language", "hate_confidence", "is_hate"])
+
+        existing_texts = set(out_df["text"].dropna().unique())
+        saved_count = 0
         for text in df["text"].dropna():
+            if text in existing_texts:
+                continue  # skip if already processed
+            
             lang, hate_conf, is_hate = get_annotation(text)
-            all_data.append({
+
+            new_row = pd.DataFrame([{
                 "text": text,
                 "language": lang,
                 "hate_confidence": hate_conf,
                 "is_hate": is_hate
-            })
+            }])
 
-    out_df = pd.DataFrame(all_data)
-    out_df.to_csv(args.output, index=False, encoding="utf-8-sig")
-    print(f"\n✅ Saved {len(out_df)} annotated rows to {args.output}")
+            # Append row to CSV immediately (write mode = 'a' for append)
+            header = not os.path.exists(output_file)  # write header only if file doesn't exist
+            new_row.to_csv(output_file, mode="a", index=False, encoding="utf-8-sig", header=header)
+
+            # Also update in-memory DataFrame + set (to avoid duplicate work in same run)
+            out_df = pd.concat([out_df, new_row], ignore_index=True)
+            existing_texts.add(text)
+
+            saved_count += 1
+
+    print(f"\n✅ Saved {saved_count} annotated rows to {args.output}")
