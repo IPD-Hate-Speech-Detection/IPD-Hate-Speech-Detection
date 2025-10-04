@@ -31,7 +31,7 @@ TIME_FILTER = config.get('TIME_FILTER', 'month')
 COMMENT_LIMIT = config.get('COMMENT_LIMIT', 50) 
 
 # 4. Output file name
-OUTPUT_CSV_FILE = config.get('OUTPUT_CSV_FILE', 'data/top_controversial_comments.csv')
+OUTPUT_CSV_FILE = config.get('OUTPUT_CSV_FILE', f'data/top_controversial_comments_{SEARCH_KEYWORDS}.csv')
 
 # --- AUTHENTICATION & SCRAPING LOGIC ---
 
@@ -90,12 +90,15 @@ try:
             # --- MODIFICATION END ---
 
             author_name = comment.author.name if comment.author else "[deleted]"
+
+            if "[deleted]" in comment.body or "[removed]" in comment.body or comment.body.strip() == "":
+                continue
             
             all_comments_data.append({
                 # 'post_title': submission.title,
                 # 'post_url': submission.url,
                 # 'author': author_name,
-                'comment_body': comment.body,
+                'text': comment.body,
                 # 'score': comment.score,
                 # 'created_utc': datetime.datetime.fromtimestamp(comment.created_utc).strftime('%Y-%m-%d %H:%M:%S'),
                 # 'comment_id': comment.id,
@@ -115,5 +118,6 @@ if not all_comments_data:
     print("No data was scraped.")
 else:
     df = pd.DataFrame(all_comments_data)
-    df.to_csv(OUTPUT_CSV_FILE, index=False, encoding='utf-8')
+    df_new = df.drop(df.index[0])
+    df_new.to_csv(OUTPUT_CSV_FILE, index=False, encoding='utf-8')
     print(f"\n✅ Success! All data saved to '{OUTPUT_CSV_FILE}'")
