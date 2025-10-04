@@ -3,3 +3,5 @@ reddit_scraper/venv
 reddit_scraper/data
 reddit_scraper/.env
 reddit_scraper/config.json
+youtube_videos/venv
+youtube_videos/data
